@@ -1,4 +1,4 @@
-# Covid19 case in 2019
+# Covid19 cases in 2019
 
 In this project, as an ADV Python's Assignment, I have tried to visualize the cases in jupyter 
   with pandas, numpy, matplotlib and matplotlib.pyplot libraries to analyze such cases.
